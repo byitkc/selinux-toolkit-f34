@@ -1,0 +1,3 @@
+# Ignore audit to keep peopls audit logs from getting committed :D
+audit.log
+*audit*
